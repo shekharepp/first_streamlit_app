@@ -1,1 +1,2 @@
-created main python file
+import streamlit
+streamlit.title("good mrng all")

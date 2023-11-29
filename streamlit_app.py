@@ -1,5 +1,5 @@
 import streamlit
-streamlit.header("officework")
-streamlit.text("12 am call")
-streamlit.text("3 pm call")
-
+streamlit.header('🥣 Breakfast Menu')
+streamlit.text('🥗Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
